@@ -3,4 +3,4 @@ console.log(character);
 character = 'world';
 console.log(character);
 let secondCharacter;
-console.log(secondCharacter);
+secondCharacter = "Test";
